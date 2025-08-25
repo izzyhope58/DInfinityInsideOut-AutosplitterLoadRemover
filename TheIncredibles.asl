@@ -20,4 +20,3 @@ isLoading
 {
     return (current.loading == 0);
 }
-
